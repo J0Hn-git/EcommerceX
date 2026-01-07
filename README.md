@@ -3,6 +3,8 @@
 Brokart is a modern, feature-rich eCommerce application built with Django (and optionally React/HTML for frontend).
 It allows customers to browse products, manage their cart, place secure orders, and much more. It's perfect for showcasing online store capabilities with a customizable admin panel.
 
+-----------------------------------------------------
+
 🚀 Features
 
 - 🛒 Product catalog with images, categories & details
@@ -12,6 +14,8 @@ It allows customers to browse products, manage their cart, place secure orders, 
 - 📦 Order history & tracking
 - 🧑‍💼 Admin panel for managing users, products, and orders
 - 🔐 Secure authentication and authorization
+
+- --------------------------------------------
 
 - 🧱 Tech Stack
 
@@ -23,6 +27,8 @@ It allows customers to browse products, manage their cart, place secure orders, 
 | Deployment   | GitHub                      |
 | Others       | Django Admin                |
 
+---------------------------------------------------
+
 Setup Database & Run Server
 bash
 Copy
@@ -31,7 +37,11 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
+--------------------------------------------------
+
 <img width="1902" height="714" alt="image" src="https://github.com/user-attachments/assets/f0cdd710-22c5-4d2c-8227-2032ff49cc04" />
+
+--------------------------------------------
 
 <img width="1900" height="927" alt="image" src="https://github.com/user-attachments/assets/4ece5284-b93c-473f-b867-a8d40c3759b2" />
 
